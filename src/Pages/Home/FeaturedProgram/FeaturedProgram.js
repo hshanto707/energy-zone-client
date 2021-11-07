@@ -3,6 +3,8 @@ import Program from "../../Shared/Program/Program";
 import { Button } from "react-bootstrap";
 import { NavLink } from "react-router-dom";
 import './FeaturedProgram.css'
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faChevronRight } from "@fortawesome/free-solid-svg-icons";
 
 const FeaturedProgram = () => {
   const [ programs, setPrograms] = useState([]);
