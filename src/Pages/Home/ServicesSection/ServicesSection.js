@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { NavLink } from 'react-router-dom';
 import { Button } from 'react-bootstrap';
-import Service from '../../Services/Service/Service'
+import Program from "../../Shared/Program/Program";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faChevronRight } from '@fortawesome/free-solid-svg-icons';
 
@@ -17,8 +17,8 @@ const ServicesSection = () => {
     <div className="container trainers-container">
       <h1 className="fw-bold mb-5">Our Services</h1>
       <div className="container all-programs">
-        {services.slice(0, 6).map((service) => (
-          <Service service={service} key={service.id}></Service>
+        {services.slice(0, 6).map((item) => (
+          <Program item={item} key={item.id}></Program>
         ))}
       </div>
       <NavLink to="/services">

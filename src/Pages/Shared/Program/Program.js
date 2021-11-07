@@ -2,9 +2,11 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { Button } from 'react-bootstrap';
 import './Program.css'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faStar } from '@fortawesome/free-solid-svg-icons';
 
 const Program = (props) => {
-  const {name, instructor, img, instructorImg, rating, description, price} = props.program;
+  const {name, instructor, img, instructorImg, rating, description, price} = props.item;
 
   return (
     <div className="product d-flex flex-column">

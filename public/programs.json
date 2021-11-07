@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Strength Training I",
+    "instructor": "Bob C.",
+    "img": "https://i.imgur.com/tJYIS8V.png",
+    "instructorImg": "https://i.imgur.com/yI1KbU9.png",
+    "description": "This program is perfect for people who are looking to gain some muscle without any prior experience of exercising. Strength training or resistance training involves the performance of physical exercises which are designed to improve strength and endurance. It is often associated with the use of weights.Strength training typically produces lactate in the muscles, which is a limiting factor of exercise performance. Regular endurance exercise leads to adaptations in skeletal muscle which can prevent lactate levels from rising during strength training.Many people take up strength training to improve their physical attractiveness. There is evidence that a body type consisting of broad shoulders and a narrow waist, attainable through strength training, is the most physically attractive male attribute according to women participating in the research.",
+    "rating": 4.6,
+    "price": 199
+  },
+  {
+    "id": 2,
+    "name": "Strength Training II",
+    "instructor": "Javier D.",
+    "instructorImg": "https://i.imgur.com/VX2SjzN.png",
+    "img": "https://i.imgur.com/52rVY2Z.png",
+    "description": "This is our advance program of strength training. To start this program we recommend to have at least 6 months of training experience. Strength training provides functional benefits. Stronger muscles improve posture, provide better support for joints, and reduce the risk of injury from everyday activities. Older people who take up weight training can prevent some of the loss of muscle tissue that normally accompanies aging—and even regain some functional strength—and by doing so become less frail. They may be able to avoid some types of physical disability. Weight-bearing exercise also helps to prevent osteoporosis and to improve bone strength in those with osteoporosis. The benefits of weight training for older people have been confirmed by studies of people who began engaging in it even in their 80s and 90s.",
+    "rating": 5,
+    "price": 249
+  },
+  {
+    "id": 3,
+    "name": "HIIT I",
+    "instructor": "Vanessa A.",
+    "instructorImg": "https://i.imgur.com/3mrvaIx.png",
+    "img": "https://i.imgur.com/Mk7jRkw.png",
+    "description": "If you're a beginner at excercise and want to lose weight we have HIIT I program for you. It designed for completely newbies.High-intensity interval training (HIIT) is a form of interval training, a cardiovascular exercise strategy alternating short periods of intense anaerobic exercise with less intense recovery periods, until too exhausted to continue. The method is not just restricted to cardio and frequently includes weights for the short periods as well. Though there is no universal HIIT session duration, these intense workouts typically last under 30 minutes as it uses the anaerobic energy systems which are typically used for short, sharp bursts. The times vary, based on a participant's current fitness level. Furthermore, traditional HIIT was designed to be no longer than 20 seconds on with no more than 10 seconds off. This would bring in the anaerobic energy system. The intensity of HIIT also depends on the duration of the session.",
+    "rating": 4.4,
+    "price": 199
+  },
+  {
+    "id": 4,
+    "name": "HIIT II",
+    "instructor": "Chloe H.",
+    "instructorImg": "https://i.imgur.com/NJ8w95W.png",
+    "img": "https://i.imgur.com/4nXEsK6.png",
+    "description": "HIIT II program for those people who wants to grow their fitness level and lose for fat cells.HIIT workouts provide improved athletic capacity and condition as well as improved glucose metabolism. Compared with longer sessions typical of other regimens, HIIT may not be as effective for treating hyperlipidemia and obesity, or improving muscle and bone mass. However, research has shown that HIIT regimens produced significant reductions in the fat mass of the whole-body in young women. Some researchers also note that HIIT requires an extremely high level of subject motivation and question whether the general population could safely or practically tolerate the extreme nature of the exercise regimen.HIIT exercise sessions generally consist of a warm up period followed by repetitions of high-intensity exercises separated by medium intensity exercises for recovery, then a cool-down period.",
+    "rating": 4.9,
+    "price": 249
+  },
+  {
+    "id": 5,
+    "name": "Power Lifting",
+    "instructor": "Paul S.",
+    "instructorImg": "https://i.imgur.com/BODYO8H.png",
+    "img": "https://i.imgur.com/QEbefKK.png",
+    "description": "Powerlifting is a strength sport that consists of three attempts at maximal weight on three lifts: squat, bench press, and deadlift.Powerlifting is a strength sport that consists of three attempts at maximal weight on three lifts: squat, bench press, and deadlift. As in the sport of Olympic weightlifting, it involves the athlete attempting a maximal weight single-lift effort of a barbell loaded with weight plates. Powerlifting evolved from a sport known as odd lifts, which followed the same three-attempt format but used a wider variety of events, akin to strongman competition. Eventually odd lifts became standardized to the current three.In competition, lifts may be performed equipped or un-equipped (typically referred to as 'classic' or 'raw' lifting in the IPF specifically).",
+    "rating": 4.7,
+    "price": 299
+  },
+  {
+    "id": 6,
+    "name": "Calisthenics",
+    "instructor": "Joey W.",
+    "instructorImg": "https://i.imgur.com/IwGFlj3.png",
+    "img": "https://i.imgur.com/hkpeSUd.png",
+    "description": "Calisthenics or callisthenics is a form of strength training consisting of a variety of movements that exercise large muscle groups, such as standing, grasping, pushing, etc. These exercises are often performed rhythmically and with minimal equipment, as bodyweight exercises. Urban calisthenics is a form of Street Workout; calisthenics groups perform exercise routines in urban areas. Individuals and groups train to perform advanced calisthenics skills such as muscle-ups, levers, and various freestyle moves such as spins and flips. Sports teams and military units often perform leader-directed group calisthenics as a form of synchronized physical training (often including a customized routine) to increase group cohesion and discipline. Calisthenics is also popular as a component of physical education in primary and secondary schools over much of the globe.",
+    "rating": 4.6,
+    "price": 299
+  },
+  {
+    "id": 7,
+    "name": "Conditioning",
+    "instructor": "Dani B.",
+    "instructorImg": "https://i.imgur.com/gzZwBDe.png",
+    "img": "https://i.imgur.com/av4ja01.png",
+    "description": "The term ‘strength and conditioning training’ refers to the format of exercise which highlights building the strength, size as well as endurance of skeletal muscles. To undertake strength and conditioning training, you need to utilise resistance to muscular contraction so as you can achieve the desired results. There are several different ways of doing these particular exercises, the most well-known of which is using elastic or hydraulic forces to counter opposing muscular contractions.Also, strength and conditioning training is hugely beneficial as it helps in enhancing the overall health and well-being of an individual. This type of training improves the strength and toughness of bones, tendons, muscles as well as ligaments.Your bones are changing continuously. New bone is made while old bone is broken down. When you’re at a younger age, your body builds new bone quicker than it breaks down old bone. This means that your bone mass improves. Most individuals reach their pinnacle bone mass around the time that they are 30. After that, bone remodelling continues; however, you lose a little more bone mass than you get.",
+    "rating": 4.5,
+    "price": 249
+  },
+  {
+    "id": 8,
+    "name": "Tabata Training",
+    "instructor": "Nicole Y.",
+    "instructorImg": "https://i.imgur.com/kiI3L3t.png",
+    "img": "https://i.imgur.com/wn3SmB3.png",
+    "description": "Tabata is a type of HIIT workout that aims to yield the most benefits in a short amount of time. For each exercise, you do eight rounds of 20 seconds of strenuous exercise followed by 10 seconds of rest.The work period can be a set time or number of repetitions. During the active phase, you exert yourself as hard as you can, even to the point of fatigue. The times can vary, but usually, each interval lasts 2 to 3 minutes and the entire workout lasts 20 to 40 minutes. HIIT workouts can use bodyweight exercises, a stationary bike, or a treadmill. You can use equipment such as a kettlebell, a jump rope, or dumbbells. Each Tabata round lasts 4 minutes and involves eight intervals of 20 seconds of intense exercise followed by 10 seconds of rest. Usually, you do a Tabata workout for 20 minutes, but you can opt to do one or a few exercises for a shorter session. While Tabata brings many benefits, some people don’t find it pleasant. A 2015 studyTrusted Source found that Tabata training was significantly less enjoyable than other less intense types of exercise, especially as time progressed over the 8 weeks of the study.",
+    "rating": 4.7,
+    "price": 299
+  },
+  {
+    "id": 9,
+    "name": "Intense Fat Burning",
+    "instructor": "Monica W.",
+    "instructorImg": "https://i.imgur.com/ihXUF8o.png",
+    "img": "https://i.imgur.com/pWtIdkS.png",
+    "description": "Are you struggling with extra fats in your body? Don't worry, we got you. We understand that fat burning process often can be very frustating. That's why we designed the most effective fat burning program you can ever find. Whether you're a absolute beginner or has some prior experience in exercise, you can start this program without any hesitation. In this course our experienced trainer will help you through the process and ultimately reach your goal. This program is total 30 weeks. In these 30 weeks period of time you can lose as much as 30kg or more. First 5 weeks you will do some basic movements and make your body prepare for next challenges. We believe consistency is the key. And to make you consistent we followed some principle. We Made tasks easier and shorter for you. Only 30 mins per day is enough to reach your fitness goal. We made this program to make your workout time most effective and fun. Don't forget about the diet. Without a rich and planned diet it so much harder to reach a certain level of fitness. We will give you a complete diet plan based on your body and your prefference of foods.",
+    "rating": 4.9,
+    "price": 299
+  }
+]
