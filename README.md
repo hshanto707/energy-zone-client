@@ -1,10 +1,21 @@
-# Getting Started with Create React App
+# Energy Zone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Site: 
 
-## Available Scripts
+## Details
 
-In the project directory, you can run:
+It's a complete project for gym owner. It has services, programs pages.
+
+## Technology Used
+
+1. HTML
+2. CSS
+3. Bootstrap
+4. JavaScript
+5. React
+6. NodeJS
+7. MongoDB
+8. Express
 
 ### `npm start`
 
