@@ -1,14 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
-import Home from './Pages/Home/Home/Home';
-import { Route, BrowserRouter as Router, Switch } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import "./App.css";
+import Cart from "./Pages/Cart/Cart";
+import Home from "./Pages/Home/Home";
+import Registration from "./Pages/Home/Registration/Registration";
+import Login from "./Pages/Login/Login";
+import NotFound from "./Pages/NotFound/NotFound";
+import Programs from "./Pages/Programs/Programs";
+import Services from "./Pages/Services/Services";
+import Footer from "./Pages/Shared/Footer/Footer";
+import Header from "./Pages/Shared/Header/Header";
+import Supplements from "./Pages/Supplements/Supplements";
+import Trainers from "./Pages/Trainers/Trainers";
+import AuthProvider from "./context/AuthProvider";
+import PrivateRoute from "./Pages/Shared/PrivateRoute/PrivateRoute";
+import MyPlans from "./Pages/MyPlans/MyPlans";
+import ServicePage from "./Pages/ServicePage/ServicePage";
+import ProgramPage from "./Pages/ProgramPage/ProgramPage";
 
 function App() {
   return (
     <div className="App">
-      {/* <AuthProvider> */}
+      <AuthProvider>
         <Router>
-          {/* <Header></Header> */}
+          <Header></Header>
           <Switch>
             <Route exact path="/">
               <Home></Home>
@@ -17,12 +31,12 @@ function App() {
               <Home></Home>
             </Route>
             <Route path="/programs">
-              {/* <Programs></Programs> */}
+              <Programs></Programs>
             </Route>
             <Route exact path="/services">
-              {/* <Services></Services> */}
+              <Services></Services>
             </Route>
-            {/* <Route path="/trainers">
+            <Route path="/trainers">
               <Trainers></Trainers>
             </Route>
             <PrivateRoute path="/supplements">
@@ -48,11 +62,11 @@ function App() {
             </Route>
             <Route path="*">
               <NotFound></NotFound>
-            </Route> */}
+            </Route>
           </Switch>
-          {/* <Footer></Footer> */}
+          <Footer></Footer>
         </Router>
-      {/* </AuthProvider> */}
+      </AuthProvider>
     </div>
   );
 }
