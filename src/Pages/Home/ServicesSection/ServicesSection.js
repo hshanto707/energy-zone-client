@@ -4,6 +4,7 @@ import { Button } from 'react-bootstrap';
 import Program from "../../Shared/Program/Program";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faChevronRight } from '@fortawesome/free-solid-svg-icons';
+import '../../Services/ServicesBody/ServicesBody.css'
 
 const ServicesSection = () => {
   const [services, setServices] = useState([]);
