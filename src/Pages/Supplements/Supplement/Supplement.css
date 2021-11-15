@@ -1,0 +1,28 @@
+.product {
+  width: 100%;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  transition: 0.5s;
+} 
+
+.product:hover {
+  box-shadow: 10px 10px 10px lightgray;
+}
+
+.product img {
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+
+.buy-now {
+  background-color: #ff0050 !important;
+  border: none !important;
+  font-size: 20px !important;
+  padding: 8px 40px !important;
+  width: 190px;
+  transition: 0.5s;
+}
+
+.buy-now:hover {
+  background-color: #ae0000 !important
+}
