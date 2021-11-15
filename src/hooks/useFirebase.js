@@ -9,7 +9,7 @@ import {
   updateProfile,
   signOut,
 } from "firebase/auth";
-import initializeAuthentication from "../Firebase/firebase.initialize";
+import initializeAuthentication from "../Firebase/firebase.init";
 
 initializeAuthentication();
 
