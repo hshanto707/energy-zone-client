@@ -1,0 +1,41 @@
+.trainer-section {
+  width: 70%;
+  padding: 150px 0;
+  margin: auto;
+}
+
+.trainers {  
+  display: flex;
+  padding-top: 50px;
+  justify-content: space-between;
+}
+
+.trainer {
+  width: 100%;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  transition: 0.5s;
+}
+
+.trainer:hover {
+  box-shadow: 10px 10px 10px lightgray;
+}
+
+.trainer img {
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+
+.label {
+  font-weight: 500;
+  color: #ff0050;
+}
+
+.social-link {
+  color: #ff0050;
+  cursor: pointer;
+}
+
+.social-link:hover {
+  color: #a30000;
+}
