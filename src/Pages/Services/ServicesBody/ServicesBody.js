@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import Service from '../Service/Service';
+import Service from "../../Shared/Service/Service"
 import './ServicesBody.css'
 
 const ServicesBody = () => {

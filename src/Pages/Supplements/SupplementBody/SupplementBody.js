@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Supplement from '../Supplement/Supplement';
 import useCart from '../../../hooks/useCart';
-import { addToDb } from '../../../utilities/fakedb';
 import './SupplementsBody.css'
 
 const SupplementsBody = () => {

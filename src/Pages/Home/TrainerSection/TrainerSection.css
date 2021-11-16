@@ -1,0 +1,11 @@
+.trainers-container {
+  margin: 100px 0;
+}
+
+.see-more {
+  background-color: #ff0050 !important;
+  border: none !important;
+  font-size: 20px !important;
+  padding: 8px 40px !important;
+  width: 200px;
+}
